@@ -1,0 +1,1 @@
+This project is my attempt at the first project in The Odin Project. Using HTML, the task is to build a basic recipe website. I will be practicing my HTML and git skills with this project.
